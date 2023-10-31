@@ -14,7 +14,4 @@ zkSinc Mix is an interface for zkSync smart contracts that allow users to intera
 
 
 
-## Demo
-
-- Gh: https://github.com/metaversemoon/zkSinc-mix
 -
